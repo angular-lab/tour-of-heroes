@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
@@ -29,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # tour-of-heroes
 https://angular.io/tutorial
->>>>>>> 2a0647bcc4c8d1ea2a048d2c2c9971768f6f2a90
